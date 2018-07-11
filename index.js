@@ -9,5 +9,5 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyRemoveLastKitten() {
-  kittens.push(name)
+  kittens.pop(name)
 }
